@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareDesign", "SoftwareDesign\SoftwareDesign.csproj", "{E9FCEC4A-2B78-4AD4-A391-4BA076F2F6CC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternDemo", "FactoryPatternDemo\FactoryPatternDemo.csproj", "{42FFEB15-C85C-43C9-8CE5-8928AC6338B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract factory", "Abstract factory\Abstract factory.csproj", "{28BD20C3-CA3E-4D9D-B378-8FA6D8F4AE28}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9FCEC4A-2B78-4AD4-A391-4BA076F2F6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9FCEC4A-2B78-4AD4-A391-4BA076F2F6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9FCEC4A-2B78-4AD4-A391-4BA076F2F6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9FCEC4A-2B78-4AD4-A391-4BA076F2F6CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{42FFEB15-C85C-43C9-8CE5-8928AC6338B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{42FFEB15-C85C-43C9-8CE5-8928AC6338B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42FFEB15-C85C-43C9-8CE5-8928AC6338B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
