@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+Abstract factory/bin
+Abstract factory/obj
+FactoryPatternDemo/bin
+FactoryPatternDemo/obj
+LiskovSubstitutionPrinciple/bin
+LiskovSubstitutionPrinciple/obj
