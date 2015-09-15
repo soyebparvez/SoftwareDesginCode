@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RectangleCase1.cs" />
+    <Compile Include="RectangleCase2.cs" />
+    <Compile Include="RectangleCase3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
