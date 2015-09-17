@@ -1,4 +1,6 @@
-﻿namespace LiskovSubstitutionPrinciple
+﻿using System;
+
+namespace LiskovSubstitutionPrinciple
 {
   public class RectangleCase1
   {
@@ -45,6 +47,22 @@
     public static int Area(SquareCase1 rect)
     {
       return rect.Height * rect.Width;
+    }
+  }
+
+  public class AreaCalculatorExecution1
+  {
+    public static void Main(string[] args)
+    {
+      // case 1
+      Console.WriteLine("Case1**************");
+      RectangleCase1 rect = new RectangleCase1 {Height = 5, Width = 10};
+      Console.WriteLine("React Are: " + AreaCalculatorCase1.Area(rect));
+
+      rect = new SquareCase1 {Height = 5, Width = 10};
+      Console.WriteLine("Square Are: " + AreaCalculatorCase1.Area(rect));
+
+      Console.ReadKey();
     }
   }
 }
