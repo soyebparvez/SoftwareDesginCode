@@ -8,7 +8,6 @@ namespace LiskovSubstitutionPrinciple
 
   public class Lion : IAnimal
   {
-   
   }
 
   public interface IHuman : IAnimal
