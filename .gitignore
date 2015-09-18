@@ -48,3 +48,5 @@ FactoryPatternDemo/bin
 FactoryPatternDemo/obj
 LiskovSubstitutionPrinciple/bin
 LiskovSubstitutionPrinciple/obj
+*.exe
+*.pdb
