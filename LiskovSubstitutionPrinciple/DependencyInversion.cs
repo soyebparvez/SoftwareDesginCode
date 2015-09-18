@@ -34,6 +34,8 @@
       ExtendedCar car2 = new ExtendedCar(new ExtendedJetEngine());
       Console.WriteLine("Car has " + car2.Engine.GetType().Name);
 
+      Console.WriteLine("Now This design is closed for modification.");
+      Console.WriteLine("We are injecting engine from constructor.");
       Console.ReadKey();
     }
   }

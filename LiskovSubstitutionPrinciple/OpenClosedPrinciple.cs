@@ -23,11 +23,9 @@
       Car car = new Car();
       Console.WriteLine("Car has " + car.Engine.GetType().Name);
       Console.WriteLine("What happen when we want to change car Engine. we have to modify car class");
-      Console.WriteLine("This design is not close for modification");
-      Console.WriteLine("Now we invert dependency in extended car");
+      Console.WriteLine("This design is not close for modification.");
+      Console.WriteLine("Now we invert dependency in extended car.");
       Console.ReadKey();
     }
   }
-
-  
 }
