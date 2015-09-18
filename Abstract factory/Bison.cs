@@ -1,7 +1,6 @@
-﻿
-namespace Abstract_factory
+﻿namespace Abstract_factory
 {
-  public class Bison:Herbivore
+  public class Bison : Herbivore
   {
   }
 }

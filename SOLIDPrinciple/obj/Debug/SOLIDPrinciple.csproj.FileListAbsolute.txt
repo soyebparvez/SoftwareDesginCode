@@ -6,3 +6,8 @@ D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\obj\Debug\Lis
 D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb
 D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\bin\Debug\SOLIDPrinciple.exe.config
 D:\Design Principle\SoftwareDesginCode\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.exe.config
+D:\Design Principle\SoftwareDesginCode\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.exe
+D:\Design Principle\SoftwareDesginCode\SOLIDPrinciple\bin\Debug\SOLIDPrinciple.pdb
+D:\Design Principle\SoftwareDesginCode\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.csprojResolveAssemblyReference.cache
+D:\Design Principle\SoftwareDesginCode\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.exe
+D:\Design Principle\SoftwareDesginCode\SOLIDPrinciple\obj\Debug\SOLIDPrinciple.pdb

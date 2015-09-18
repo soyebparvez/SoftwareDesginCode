@@ -1,5 +1,4 @@
-﻿
-namespace Abstract_factory
+﻿namespace Abstract_factory
 {
   public abstract class ContinentFactory
   {

@@ -1,9 +1,9 @@
 ﻿namespace Abstract_factory
 {
-  class AnimalWorld
+  public class AnimalWorld
   {
-    private Herbivore m_herbivore;
-    private Carnivore m_carnivore;
+    private readonly Herbivore m_herbivore;
+    private readonly Carnivore m_carnivore;
 
     // Constructor
     public AnimalWorld(ContinentFactory factory)
@@ -16,7 +16,5 @@
     {
       m_carnivore.Eat(m_herbivore);
     }
-
   }
 }
-

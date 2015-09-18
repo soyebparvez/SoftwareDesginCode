@@ -1,7 +1,6 @@
-﻿
-namespace Abstract_factory
+﻿namespace Abstract_factory
 {
-  class AmericaFactory : ContinentFactory
+  public class AmericaFactory : ContinentFactory
   {
     public override Herbivore CreateHerbivore()
     {
@@ -12,6 +11,5 @@ namespace Abstract_factory
     {
       return new Wolf();
     }
-
   }
 }

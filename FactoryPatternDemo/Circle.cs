@@ -1,6 +1,6 @@
 ﻿namespace FactoryPatternDemo
 {
-  public class Circle:IShape
+  public class Circle : IShape
   {
     #region IShape Members
 
