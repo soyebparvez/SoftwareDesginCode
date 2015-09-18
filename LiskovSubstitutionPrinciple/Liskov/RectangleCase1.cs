@@ -56,12 +56,16 @@ namespace LiskovSubstitutionPrinciple
     {
       // case 1
       Console.WriteLine("Case1**************");
-      RectangleCase1 rect = new RectangleCase1 {Height = 5, Width = 10};
+      RectangleCase1 rect = new RectangleCase1 { Height = 5, Width = 10 };
+
+      Console.ForegroundColor = ConsoleColor.Yellow;
+
       Console.WriteLine("React Are: " + AreaCalculatorCase1.Area(rect));
 
-      rect = new SquareCase1 {Height = 5, Width = 10};
+      rect = new SquareCase1 { Height = 5, Width = 10 };
       Console.WriteLine("Square Are: " + AreaCalculatorCase1.Area(rect));
-
+     
+      Console.ResetColor();
       Console.ReadKey();
     }
   }

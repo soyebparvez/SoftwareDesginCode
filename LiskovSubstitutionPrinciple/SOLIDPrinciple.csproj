@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LiskovSubstitutionPrinciple.DependencyInversionPExecuter</StartupObject>
+    <StartupObject>LiskovSubstitutionPrinciple.InheritanceExecution1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,9 +48,9 @@
     <Compile Include="Inheritance.cs" />
     <Compile Include="OpenClosedPrinciple.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RectangleCase1.cs" />
-    <Compile Include="RectangleCase2.cs" />
-    <Compile Include="RectangleCase3.cs" />
+    <Compile Include="Liskov\RectangleCase1.cs" />
+    <Compile Include="Liskov\RectangleCase2.cs" />
+    <Compile Include="Liskov\RectangleCase3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -34,13 +34,16 @@ namespace LiskovSubstitutionPrinciple
     }
   }
 
-  public class KnowYourSelfExecution1
+  public class InheritanceExecution1
   {
     public static void Main(string[] args)
     {
+      Console.ForegroundColor = ConsoleColor.Yellow;
+
       KnowYourSelf knowYourSelf = new KnowYourSelf();
       knowYourSelf.Discribe(new Lion());
       knowYourSelf.Discribe(new Human());
+      Console.ResetColor();
       Console.ReadKey();
     }
   }

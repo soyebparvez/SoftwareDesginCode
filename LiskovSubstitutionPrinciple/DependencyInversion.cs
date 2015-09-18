@@ -28,6 +28,8 @@
   {
     public static void Main(string[] args)
     {
+      Console.ForegroundColor = ConsoleColor.Yellow;
+
       ExtendedCar car = new ExtendedCar(new ExtendedPistonEngine());
       Console.WriteLine("Car has " + car.Engine.GetType().Name);
 
@@ -36,6 +38,8 @@
 
       Console.WriteLine("Now This design is closed for modification.");
       Console.WriteLine("We are injecting engine from constructor.");
+
+      Console.ResetColor();
       Console.ReadKey();
     }
   }
