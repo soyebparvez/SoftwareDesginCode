@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LiskovSubstitutionPrinciple")]
+[assembly: AssemblyTitle("SOLIDPrinciple")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("EXFO Inc.")]
-[assembly: AssemblyProduct("LiskovSubstitutionPrinciple")]
+[assembly: AssemblyProduct("SOLIDPrinciple")]
 [assembly: AssemblyCopyright("Copyright © EXFO Inc. 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -1,0 +1,6 @@
+D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojResolveAssemblyReference.cache
+D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+D:\Design Principle\SoftwareDesginCode\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb
