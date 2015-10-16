@@ -1,0 +1,6 @@
+D:\Design Principle\SoftwareDesginCode\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\Design Principle\SoftwareDesginCode\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Design Principle\SoftwareDesginCode\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Design Principle\SoftwareDesginCode\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+D:\Design Principle\SoftwareDesginCode\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\Design Principle\SoftwareDesginCode\StrategyPattern\obj\Debug\StrategyPattern.pdb
