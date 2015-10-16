@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract factory", "Abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciple", "SOLIDPrinciple\SOLIDPrinciple.csproj", "{5E0334F4-69EE-40A9-99B7-6ED9EECE5A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{485A9B74-54AC-4B21-A728-F39910A3B556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{7964F158-0C00-4371-AFD8-35C0875ED3FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{5E0334F4-69EE-40A9-99B7-6ED9EECE5A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0334F4-69EE-40A9-99B7-6ED9EECE5A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E0334F4-69EE-40A9-99B7-6ED9EECE5A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485A9B74-54AC-4B21-A728-F39910A3B556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485A9B74-54AC-4B21-A728-F39910A3B556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485A9B74-54AC-4B21-A728-F39910A3B556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485A9B74-54AC-4B21-A728-F39910A3B556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7964F158-0C00-4371-AFD8-35C0875ED3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7964F158-0C00-4371-AFD8-35C0875ED3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7964F158-0C00-4371-AFD8-35C0875ED3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7964F158-0C00-4371-AFD8-35C0875ED3FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
