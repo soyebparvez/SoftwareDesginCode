@@ -51,6 +51,7 @@
     <Compile Include="Liskov\RectangleCase1.cs" />
     <Compile Include="Liskov\RectangleCase2.cs" />
     <Compile Include="Liskov\RectangleCase3.cs" />
+    <Compile Include="SingleResponsibility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
